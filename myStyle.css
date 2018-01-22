@@ -1,18 +1,19 @@
 #background {
-    background: url("https://images.pexels.com/photos/125457/pexels-photo-125457.jpeg?h=350&auto=compress&cs=tinysrgb" ) no-repeat center center fixed;
-    background-size: cover;
-    height: 100%;
-    overflow:hidden;
+  background: url("https://images.pexels.com/photos/125457/pexels-photo-125457.jpeg?h=350&auto=compress&cs=tinysrgb")
+    no-repeat center center fixed;
+  background-size: cover;
+  height: 100%;
+  overflow: hidden;
 }
 
 #main_view {
-    background: gray;
-    width:300px;
-    height:230px;
-    padding: 20px;
-    position: absolute;
-    top: 50%;
-    left:50%;
-    margin: -70px 0 0 -170px;
-    border: 5px solid blue;
+  background: gray;
+  width: 300px;
+  height: 230px;
+  padding: 20px;
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  margin: -70px 0 0 -170px;
+  border: 5px solid blue;
 }
